@@ -1,0 +1,1 @@
+This is a web-based audio converter that will use FFMPEG and Python3 to convert 16-bit WAV files to 320/kbs MP3 and FLAC, embed metadata and artwork.
