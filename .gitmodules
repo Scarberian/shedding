@@ -1,0 +1,3 @@
+[submodule "lib"]
+	path = lib
+	url = https://github.com/cdolivei/beatport2flac.git
